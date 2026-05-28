@@ -28,15 +28,14 @@ documentation_state:
 
 # WORKFLOW
 
-
 1. Validate links.
 2. Validate navigation.
-3. Detect stale docs.
-4. Detect orphan pages.
-5. Detect missing required sections.
-6. Determine reconciliation necessity.
-7. Return validation results.
-
+3. Validate traceability format.
+4. Detect stale docs.
+5. Detect orphan pages.
+6. Detect missing required sections.
+7. Determine reconciliation necessity.
+8. Return validation results.
 
 # OUTPUT CONTRACT
 

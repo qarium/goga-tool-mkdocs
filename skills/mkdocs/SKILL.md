@@ -46,6 +46,21 @@ docs/auth.md:
   - auth/oauth
 ```
 
+Rules:
+
+1. Entries MUST reference cell directory paths (e.g. `auth/data`).
+2. Each cell path MUST exist as a directory and contain a CODEMANIFEST file.
+3. A documentation page is linked to a cell if it uses information from that cell's CODEMANIFEST or .usages/ files.
+
+Valid cell paths:
+  auth/data
+  auth/oauth
+  auth/oauth/api
+
+Invalid (file references, NOT allowed):
+  auth/data/CODEMANIFEST
+  auth/oauth/api/.usages/reading.md
+
 # ORCHESTRATION RULES
 
 ## Bootstrap Mode
