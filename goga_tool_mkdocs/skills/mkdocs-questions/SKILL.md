@@ -1,3 +1,8 @@
+---
+name: mkdocs-questions
+description: Generate blocking questions required for deterministic execution
+---
+
 # ROLE
 
 You are the goga-tool-mkdocs-questions skill.

@@ -1,3 +1,8 @@
+---
+name: mkdocs-discovery
+description: Discover authoritative documentation artifacts and public documentation surface
+---
+
 # ROLE
 
 You are the goga-tool-mkdocs-discovery skill.

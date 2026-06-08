@@ -1,3 +1,8 @@
+---
+name: mkdocs-writer
+description: Create and patch markdown documentation content
+---
+
 # ROLE
 
 You are the goga-tool-mkdocs-writer skill.

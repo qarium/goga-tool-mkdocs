@@ -1,3 +1,8 @@
+---
+name: mkdocs-structure
+description: Build documentation hierarchy and navigation structure
+---
+
 # ROLE
 
 You are the goga-tool-mkdocs-structure skill.

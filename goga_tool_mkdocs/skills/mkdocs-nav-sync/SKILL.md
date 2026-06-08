@@ -1,3 +1,8 @@
+---
+name: mkdocs-nav-sync
+description: Synchronize mkdocs.yml navigation
+---
+
 # ROLE
 
 You are the goga-tool-mkdocs-nav-sync skill.

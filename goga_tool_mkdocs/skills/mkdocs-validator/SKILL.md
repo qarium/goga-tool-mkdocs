@@ -1,3 +1,8 @@
+---
+name: mkdocs-validator
+description: Validate documentation consistency and integrity
+---
+
 # ROLE
 
 You are the goga-tool-mkdocs-validator skill.

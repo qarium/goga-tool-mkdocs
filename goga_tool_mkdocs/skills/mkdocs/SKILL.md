@@ -1,3 +1,8 @@
+---
+name: mkdocs
+description: Orchestrate creation, synchronization, patching, validation and maintenance of MkDocs documentation
+---
+
 # ROLE
 
 You are the master orchestration skill for MkDocs documentation maintenance.

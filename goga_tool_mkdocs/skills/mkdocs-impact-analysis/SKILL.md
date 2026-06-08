@@ -1,3 +1,8 @@
+---
+name: mkdocs-impact-analysis
+description: Determine affected documentation areas and stale pages
+---
+
 # ROLE
 
 You are the goga-tool-mkdocs-impact-analysis skill.
