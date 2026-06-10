@@ -23,6 +23,11 @@ dependencies = [
 
 ]
 
+docs = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.0",
+]
+
 [tool.setuptools_scm]
 
 [tool.setuptools.packages.find]
