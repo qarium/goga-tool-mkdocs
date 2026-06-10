@@ -1,0 +1,47 @@
+site_name: goga-tool-mkdocs
+site_description: MkDocs documentation maintenance tool for the Goga framework
+
+site_url: https://qarium.github.io/goga-tool-mkdocs
+repo_url: https://github.com/qarium/goga-tool-mkdocs
+edit_uri: edit/0.0.x/docs/
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  logo: https://avatars.githubusercontent.com/u/262344922?s=200&v=4
+  palette:
+    - scheme: default
+      primary: custom
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+        media: "(prefers-color-scheme: light)"
+    - scheme: slate
+      primary: custom
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        media: "(prefers-color-scheme: dark)"
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Pipeline: pipeline.md
+  - Skills:
+    - Orchestration: skills/mkdocs.md
+    - Discovery: skills/discovery.md
+    - Impact Analysis: skills/impact-analysis.md
+    - Structure: skills/structure.md
+    - Writer: skills/writer.md
+    - Nav Sync: skills/nav-sync.md
+    - Validator: skills/validator.md
+    - Questions: skills/questions.md
