@@ -1,5 +1,5 @@
 ---
-name: mkdocs-structure
+name: goga-tool-mkdocs-structure
 description: Build documentation hierarchy and navigation structure
 ---
 

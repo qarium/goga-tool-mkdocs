@@ -1,5 +1,5 @@
 ---
-name: mkdocs-impact-analysis
+name: goga-tool-mkdocs-impact-analysis
 description: Determine affected documentation areas and stale pages
 ---
 

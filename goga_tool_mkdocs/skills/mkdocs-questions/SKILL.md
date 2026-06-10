@@ -1,5 +1,5 @@
 ---
-name: mkdocs-questions
+name: goga-tool-mkdocs-questions
 description: Generate blocking questions required for deterministic execution
 ---
 

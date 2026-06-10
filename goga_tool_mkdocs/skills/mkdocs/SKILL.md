@@ -1,5 +1,5 @@
 ---
-name: mkdocs
+name: goga-tool-mkdocs
 description: Orchestrate creation, synchronization, patching, validation and maintenance of MkDocs documentation
 ---
 

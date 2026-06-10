@@ -1,5 +1,5 @@
 ---
-name: mkdocs-writer
+name: goga-tool-mkdocs-writer
 description: Create and patch markdown documentation content
 ---
 

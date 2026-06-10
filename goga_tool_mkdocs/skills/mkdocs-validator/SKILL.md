@@ -1,5 +1,5 @@
 ---
-name: mkdocs-validator
+name: goga-tool-mkdocs-validator
 description: Validate documentation consistency and integrity
 ---
 

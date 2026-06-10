@@ -1,5 +1,5 @@
 ---
-name: mkdocs-discovery
+name: goga-tool-mkdocs-discovery
 description: Discover authoritative documentation artifacts and public documentation surface
 ---
 

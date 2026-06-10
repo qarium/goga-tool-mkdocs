@@ -1,5 +1,5 @@
 ---
-name: mkdocs-nav-sync
+name: goga-tool-mkdocs-nav-sync
 description: Synchronize mkdocs.yml navigation
 ---
 
